@@ -1,0 +1,5 @@
+13:38:06.539367 git.c:344               trace: built-in: git 'rev-parse' '--git-dir' '--is-inside-git-dir' '--is-bare-repository' '--is-inside-work-tree' '--short' 'HEAD'
+13:38:08.208403 git.c:344               trace: built-in: git 'init'
+13:38:08.705785 git.c:344               trace: built-in: git 'rev-parse' '--git-dir' '--is-inside-git-dir' '--is-bare-repository' '--is-inside-work-tree' '--short' 'HEAD'
+13:38:20.855768 git.c:344               trace: built-in: git 'remote' 'add' 'origin' 'git@github.com:rigids/robot_mars.git'
+13:38:21.008370 git.c:344               trace: built-in: git 'rev-parse' '--git-dir' '--is-inside-git-dir' '--is-bare-repository' '--is-inside-work-tree' '--short' 'HEAD'
